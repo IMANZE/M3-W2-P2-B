@@ -69,3 +69,5 @@ Tracklist ( in a table, check the bootstrap component for it )
 EXTRA) Add a button to each section. By clicking on it, the section body appears (if hidden), or disappears (if visible).
 
 hint: look for a bootstrap component that can handle the job for you. You can always rely on DOM manipulation if you can't find it
+
+See final image attached for pictorial view of project
